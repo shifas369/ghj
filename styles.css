@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+    background-size: cover;
+
+ }
+ header{
+   position: sticky;
+   top: 0;
+    border: 3px solid black;
+    background-color:orange;
+
+    margin-left: 1px;
+    padding: 16px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    .headtag a{
+      padding: 48px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-decoration: none;
+      margin-right: 8px;
+
+
+      
+    }
+
+    .headtag a:hover{
+
+      color:black;
+      break-before: right;
+
+    }
+
+    .aboutme{
+
+      margin-left: 100px;
+
+      margin-top: 30px;
+      
+   }
+    .aboutme p{
+     float:right;
+      margin-top: 3px;
+      padding: 20px;
+      margin-left: 100px;
+      width: 50em;
+      text-decoration: none;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+
+      .aboutme h1{
+         text-align: center;
+         font-size: x-large;
+         margin-bottom: 1px;
+         margin-top: 30px;
+         font-style: italic;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      }
+      img{
+         float: left;
+         height: 20em;
+         width: 20em;
+         margin-left: 80px;
+         margin-top: 10px;
+      }
+      .education{
+         margin-top: 350px;
+         padding: 5px;
+         
+     }
+     .education h2{
+         text-align: center;
+         
+     
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+     
+     
+     .education li{
+         padding: 10px;
+        font-size:x-large;
+        list-style:square;
+        margin-left: 50px;
+     }
+     .education p{
+         margin-left: 60px;
+     }
+     .education h3{
+         text-align: center;
+         margin-top:30px;
+         font-size:x-large;
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+     .skill li {
+         margin-left: 50px;
+         padding: 10px;
+         font-size: x-large;
+         list-style:square;
+     }
+     .login{
+         float: left;
+         margin-top: 10px;
+         padding: 25px;
+         margin-left: 600px;
+         background-color: orchid;
+     
+     }
+     .login h2{
+         text-align: left;
+         font-size: x-large;
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+
+     
+     footer{
+      padding: 20px;
+      background-color:whitesmoke;
+      margin-top: 500px;
+     
+     }
+
+     footer a{
+      padding: 80px;
+      font-size: larger;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+
+     footer p{
+       
+      font-size: large;
+      text-align: center;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+     }
+
+     footer a:hover{
+
+      color: brown;
+      transition: 0.2 ease;
+
+     }
+
